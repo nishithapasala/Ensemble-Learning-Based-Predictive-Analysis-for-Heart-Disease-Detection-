@@ -1,5 +1,5 @@
 # Ensemble-Learning-Based-Predictive-Analysis-for-Heart-Disease-Detection
-# Heart Disease Prediction using Ensemble Learning
+
 
 This project presents a machine learning approach for **early detection of heart disease** using ensemble learning techniques.  
 The work was developed as part of a research paper by students and faculty from the **Institute of Aeronautical Engineering, Hyderabad**.
@@ -31,26 +31,11 @@ Build a reliable prediction system that helps identify heart disease risk early 
 - Larger dataset → better and more stable results
 - Careful preprocessing (missing values, encoding, feature selection) was very important
 
-## Visual Examples
-Here are example visuals similar to the ones used in the study:
 
-*(Confusion matrices and performance comparison charts)*
-
-[Image 1: Confusion Matrix - Large Dataset]  
-[Image 2: Confusion Matrix - UCI Dataset]  
-[Image 3: Model Performance Bar Chart]
-
-## Future Ideas Mentioned in Paper
+## Future Ideas 
 - Try XGBoost, LightGBM or deep learning
 - Test on real hospital data
 - Add more diseases (multi-disease prediction)
 - Build a clinical decision support tool
 
-**Important Note**  
-This is an academic/research project — not a medical diagnostic tool.  
-Use only for learning and experimentation purposes.
 
-Made with ❤️ by:  
-Vutla Nischitha, Pasala Velangini Nishitha, Bandhakavi Nitya Sriya,  
-Mr. K Subba Shankar  
-Institute of Aeronautical Engineering, Hyderabad
